@@ -133,6 +133,6 @@
 |---|---|
 |<img src="https://github.com/neck950728/Sul/assets/151998896/7ce9ddc6-93dc-4d59-9708-7c6ca20c7ec7" width="506">|<img src="https://github.com/neck950728/Sul/assets/151998896/54f539fb-a920-43aa-be75-431b7070bd01" width="506">|
 
-|관리자|
-|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/72648ee9-85c2-4bbe-a70c-935e4e8c553d" width="506">|
+|관리자||
+|---|---|
+|<img src="https://github.com/neck950728/Sul/assets/151998896/72648ee9-85c2-4bbe-a70c-935e4e8c553d" width="506">|<img src="https://github.com/neck950728/Sul/assets/151998896/a7768ab2-0a16-45ac-a103-04ebfd50fc33" width="506">|
