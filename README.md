@@ -23,6 +23,7 @@
    <li><a href="#project-introduction">프로젝트 소개</a></li>
    <li><a href="#development-configuration">개발 환경</a></li>
    <li><a href="#team-role">팀원 역할</a></li>
+   <li><a href="#screen-configuration">화면 구성</a></li>
    <li id="function"><a href="#function">기능</a></li>
    <details>
       <summary>접기/펼치기</summary>
@@ -96,7 +97,7 @@
 > - 상품 등록/수정/삭제, 리뷰
 
 ><p><strong>팀원</strong> : 김민진</p>
-> - 주문(결제)/취소, 주문 & 상품 페이지 디자인, 월별 매출
+> - 주문(결제)/취소, 주문 & 상품 페이지 디자인, 월별 매출 차트화
 
 ><p><strong>팀원</strong> : 김동찬</p>
 > - 로그인 & 회원가입, 마이페이지, 관리자 페이지
@@ -109,7 +110,7 @@
 
 <br><br>
 
-## :tv: <a id="team-role">화면 구성</a>
+## :tv: <a id="screen-configuration">화면 구성</a>
 |메인|로그인|
 |---|---|
 |<img src="https://github.com/neck950728/Sul/assets/151998896/892f6a72-69d3-407f-8889-f96b63fa42f1" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/03cca300-08c6-4ead-8931-3a50b5c5044f" width="387.5">|
