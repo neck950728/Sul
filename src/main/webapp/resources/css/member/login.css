@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+
+*{
+	box-sizing:border-box;
+	font-family:"Spoqa Han Sans Neo", "sans-serif";
+	font-size:13px;
+	color:#595959;
+    padding: 0;
+    margin: auto;
+    border: none;
+}
+
+.viewport{background-color:#ffc9cc;}
+.headerWrap{top:0px !important;}
+header{
+    position:relative !important; top: 0px !important;
+    background-color:rgba(255,255,255,0) !important;
+}
+footer{margin-top:7rem;}
+
+
+.login-wrapper{
+    width: 400px;
+    height: 350px;
+    padding: 40px;
+	margin:100px auto;
+    box-sizing: border-box;
+}
+
+.login-wrapper > h2{
+    font-size: 24px;
+    color: #F47070;
+    margin-bottom: 20px;
+}
+#loginFrm > input{
+    width: 100%;
+    height: 48px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+    border-radius: 6px;
+    background-color: #F8F8F8;
+}
+.btn{
+    color: #fff;
+    font-size: 16px;
+    background-color: #F47070;
+    margin-top: 20px;
+    border: 1px solid !important;
+    width: 20rem !important;
+}
+#loginFrm > input::placeholder{
+    color: #D2D2D2;
+}
+
+#loginFrm > input[type="checkbox"]{
+    display: none;
+}
+#loginFrm > label{
+    color: #999999;
+}
+#loginFrm input[type="checkbox"] + label{
+    cursor: pointer;
+    padding-left: 26px;
+    background-image: url("checkbox.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#loginFrm input[type="checkbox"]:checked + label{
+    background-image: url("checkbox-active.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}

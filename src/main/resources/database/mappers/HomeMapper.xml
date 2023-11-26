@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+  <mapper namespace="com.alcohol.sul.HomeDAO">
+
+	<select id="getBestReview" resultType="ProductDTO">
+		SELECT ROWNUM , A.* FROM (
+			SELECT * FROM PRODUCT ORDER BY SCORE DESC 
+			)A
+		WHERE ROWNUM BETWEEN 1 AND 4
+	</select>
+	
+	<select id="getRecommendListTypeOne" resultType="ProductDTO">
+		SELECT ROWNUM , A.* FROM (
+			SELECT * FROM PRODUCT ORDER BY PRICE DESC 
+			)A
+		WHERE ROWNUM BETWEEN 1 AND 4
+	</select>
+	
+	<select id="getRecommendListTypeTwo" resultType="ProductDTO">
+		SELECT ROWNUM , A.* FROM (
+			SELECT * FROM PRODUCT WHERE KIND = '과실주'  
+			)A
+		WHERE ROWNUM BETWEEN 1 AND 4
+	</select>
+	
+	<select id="getReviewCount" parameterType="Long" resultType="Long">
+		SELECT count(*) FROM review
+		WHERE PRODUCTNUM = #{value}
+	</select>
+	
+	<select id="p46" resultType="ProductDTO">
+		SELECT * FROM PRODUCT
+		WHERE PRODUCTNUM = 46
+	</select> 	
+ 	<select id="p46r" resultType="Long">
+		SELECT count(*) FROM review
+		WHERE PRODUCTNUM = 46
+	</select>
+	
+	<select id="p47" resultType="ProductDTO">
+		SELECT * FROM PRODUCT
+		WHERE PRODUCTNUM = 47
+	</select> 	
+ 	<select id="p47r" resultType="Long">
+		SELECT count(*) FROM review
+		WHERE PRODUCTNUM = 47
+	</select>
+	
+	<select id="p48" resultType="ProductDTO">
+		SELECT * FROM PRODUCT
+		WHERE PRODUCTNUM = 48
+	</select> 	
+ 	<select id="p48r" resultType="Long">
+		SELECT count(*) FROM review
+		WHERE PRODUCTNUM = 48
+	</select>
+	
+	<select id="p49" resultType="ProductDTO">
+		SELECT * FROM PRODUCT
+		WHERE PRODUCTNUM = 49
+	</select> 	
+ 	<select id="p49r" resultType="Long">
+		SELECT count(*) FROM review
+		WHERE PRODUCTNUM = 49
+	</select>
+	
+	<select id="p45" resultType="ProductDTO">
+		SELECT * FROM PRODUCT
+		WHERE PRODUCTNUM = 45
+	</select> 	
+ 	<select id="p45r" resultType="Long">
+		SELECT count(*) FROM review
+		WHERE PRODUCTNUM = 45
+	</select>
+	
+	<select id="p63" resultType="ProductDTO">
+		SELECT * FROM PRODUCT
+		WHERE PRODUCTNUM = 63
+	</select> 	
+ 	<select id="p63r" resultType="Long">
+		SELECT count(*) FROM review
+		WHERE PRODUCTNUM = 63
+	</select>
+	
+	<select id="p66" resultType="ProductDTO">
+		SELECT * FROM PRODUCT
+		WHERE PRODUCTNUM = 66
+	</select> 	
+ 	<select id="p66r" resultType="Long">
+		SELECT count(*) FROM review
+		WHERE PRODUCTNUM = 66
+	</select>
+	
+	<select id="p72" resultType="ProductDTO">
+		SELECT * FROM PRODUCT
+		WHERE PRODUCTNUM = 72
+	</select> 	
+ 	<select id="p72r" resultType="Long">
+		SELECT count(*) FROM review
+		WHERE PRODUCTNUM = 72
+	</select>
+	
+  </mapper>
