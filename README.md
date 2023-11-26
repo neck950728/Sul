@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-   <img src="https://github.com/neck950728/sul/assets/151998896/af207b5d-71b5-4c8c-bcfe-9c227ebdacce" width="18%">
+   <img src="https://github.com/neck950728/Sul/assets/151998896/9289a5cd-f05a-40aa-b070-e017e3722f0d" width="18%">
 </div>
 
 ---
@@ -54,7 +54,7 @@
 ## :clap: <a id="project-introduction">프로젝트 소개</a>
 
 <br>
-<img src="https://github.com/neck950728/sul/assets/151998896/95d53347-7d7b-48d1-a69d-b46046eaf063" width="35%">
+<img src="https://github.com/neck950728/Sul/assets/151998896/0ace2619-f563-4309-833c-8602c392679f" width="35%">
 <br><br>
 
 :astonished: 코로나-19로 인해 주류 소비 트렌트가 변화하였다!
