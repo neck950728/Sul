@@ -111,26 +111,22 @@
 <br><br>
 
 ## :tv: <a id="screen-configuration">화면 구성</a>
-|메인|로그인|
+|메인|로그인 & 회원가입|
 |---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/892f6a72-69d3-407f-8889-f96b63fa42f1" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/03cca300-08c6-4ead-8931-3a50b5c5044f" width="387.5">|
+|<img src="https://github.com/neck950728/Sul/assets/151998896/892f6a72-69d3-407f-8889-f96b63fa42f1" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/b91fb49e-7373-44b5-b466-a084a2523806" width="387.5">|
 
-|회원가입|상품 목록|
+|상품 목록|상품 상세|
 |---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/cbbd10e2-7734-406a-9dc9-1fad7bd7ae8a" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/b6d6f2b1-d801-433c-b21b-2d1002aa5661" width="387.5">|
+|<img src="https://github.com/neck950728/Sul/assets/151998896/b6d6f2b1-d801-433c-b21b-2d1002aa5661" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/1797630b-e9da-431b-9776-44f91e9218dd" width="387.5">|
 
-|상품 상세|장바구니|
+|장바구니|마이페이지|
 |---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/1797630b-e9da-431b-9776-44f91e9218dd" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/e9dc3161-71c4-477b-a5ec-e794b5f9ca53" width="387.5">|
+|<img src="https://github.com/neck950728/Sul/assets/151998896/e9dc3161-71c4-477b-a5ec-e794b5f9ca53" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/494fe7ea-dd02-443b-a40f-27eb7b17f2be" width="387.5">|
 
 |주문|주문 취소|
 |---|---|
 |<img src="https://github.com/neck950728/Sul/assets/151998896/c0a88ed1-148c-4d4a-9c2b-bff2f8cd9b77" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/fd3f99c5-a5d9-45b5-8db9-0283322c108a" width="387.5">|
 
-|마이페이지|고객센터|
+|고객센터|관리자|
 |---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/494fe7ea-dd02-443b-a40f-27eb7b17f2be" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/77d6c40f-f0a2-4cd1-9cfe-8a7c395e7223" width="387.5">|
-
-|관리자|
-|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/72648ee9-85c2-4bbe-a70c-935e4e8c553d" width="387.5">|
+<img src="https://github.com/neck950728/Sul/assets/151998896/77d6c40f-f0a2-4cd1-9cfe-8a7c395e7223" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/72648ee9-85c2-4bbe-a70c-935e4e8c553d" width="387.5">|
