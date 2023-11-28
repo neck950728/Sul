@@ -96,7 +96,7 @@
 ><p><strong>팀장</strong> : 김호진</p>
 > - 상품 등록/수정/삭제, 리뷰
 
-><p><strong>팀원</strong> : 김민진</p>
+><p><strong>팀원</strong> : 김민진 :raising_hand_man:</p>
 > - 주문(결제)/취소, 주문 & 상품 페이지 디자인, 월별 매출 차트화
 
 ><p><strong>팀원</strong> : 김동찬</p>
