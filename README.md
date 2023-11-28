@@ -127,13 +127,9 @@
 |---|---|
 |<img src="https://github.com/neck950728/Sul/assets/151998896/c0a88ed1-148c-4d4a-9c2b-bff2f8cd9b77" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/fd3f99c5-a5d9-45b5-8db9-0283322c108a" width="387.5">|
 
-|마이페이지|공지사항|
+|마이페이지|고객센터|
 |---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/494fe7ea-dd02-443b-a40f-27eb7b17f2be" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/7d52ba35-8e16-4519-ba5c-7d3c5cf898a7" width="387.5">|
-
-|FAQ|QnA|
-|---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/7ce9ddc6-93dc-4d59-9708-7c6ca20c7ec7" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/54f539fb-a920-43aa-be75-431b7070bd01" width="387.5">|
+|<img src="https://github.com/neck950728/Sul/assets/151998896/494fe7ea-dd02-443b-a40f-27eb7b17f2be" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/77d6c40f-f0a2-4cd1-9cfe-8a7c395e7223" width="387.5">|
 
 |관리자|
 |---|
