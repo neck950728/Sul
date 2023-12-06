@@ -88,7 +88,7 @@
 
 |:hammer: Library & API|
 |:---:|
-```jQuery```, ```Jackson Databind```, ```JSON Simple```, ```Gson```, ```Commons FileUpload``` <br> ```Google Charts```, ```NURIGO```, ```PortOne```, ```Daum Postcode```
+```jQuery```, ```Jackson Databind```, ```JSON Simple```, ```Gson```, ```Commons FileUpload``` <br> ```Summernote```, ```Google Charts```, ```NURIGO```, ```PortOne```, ```Daum Postcode```
 
 <br><br>
 
