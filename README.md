@@ -4,6 +4,7 @@
 
 <div align="center">
    <img src="https://github.com/neck950728/Sul/assets/151998896/9289a5cd-f05a-40aa-b070-e017e3722f0d" width="18%">
+   <h6><i>본 사이트는 상업적 목적이 아닌 개인 포트폴리오 용도로 제작되었습니다.</i></h6>
 </div>
 
 ---
