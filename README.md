@@ -116,20 +116,20 @@
 ## :tv: <a id="screen-configuration">화면 구성</a>
 |메인|로그인 & 회원가입|
 |---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/892f6a72-69d3-407f-8889-f96b63fa42f1" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/b91fb49e-7373-44b5-b466-a084a2523806" width="387.5">|
+|<img src="https://github.com/neck950728/Sul/assets/151998896/23a110f6-01c2-43fc-82e1-10bdeb2072c8" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/42eabe7c-7755-459d-a0f4-9a26c9c95a51" width="387.5">|
 
 |상품 목록|상품 상세|
 |---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/b6d6f2b1-d801-433c-b21b-2d1002aa5661" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/1797630b-e9da-431b-9776-44f91e9218dd" width="387.5">|
+|<img src="https://github.com/neck950728/Sul/assets/151998896/2fb3e3f4-cf58-41ad-a7e6-8d33449838d0" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/5c156858-9530-4f6d-b8b9-b19258d6e64b" width="387.5">|
 
 |장바구니|마이페이지|
 |---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/e9dc3161-71c4-477b-a5ec-e794b5f9ca53" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/494fe7ea-dd02-443b-a40f-27eb7b17f2be" width="387.5">|
+|<img src="https://github.com/neck950728/Sul/assets/151998896/e16a6754-3d18-4abd-8f5e-8bb8cc7505fe" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/05624491-51f1-4e60-b63d-c860ce402cc0" width="387.5">|
 
 |주문|주문 취소|
 |---|---|
-|<img src="https://github.com/neck950728/Sul/assets/151998896/c0a88ed1-148c-4d4a-9c2b-bff2f8cd9b77" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/fd3f99c5-a5d9-45b5-8db9-0283322c108a" width="387.5">|
+|<img src="https://github.com/neck950728/Sul/assets/151998896/b864f76f-9422-474b-9d11-578a1b640e31" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/526193f7-dd24-498d-841e-9ff5c5c1702e" width="387.5">|
 
 |고객센터|관리자|
 |---|---|
-<img src="https://github.com/neck950728/Sul/assets/151998896/77d6c40f-f0a2-4cd1-9cfe-8a7c395e7223" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/72648ee9-85c2-4bbe-a70c-935e4e8c553d" width="387.5">|
+<img src="https://github.com/neck950728/Sul/assets/151998896/31603181-cbf1-46f9-8815-1e76b5714c8f" width="387.5">|<img src="https://github.com/neck950728/Sul/assets/151998896/16cd7648-a557-4c86-8e7a-4c5c9686243c" width="387.5">|
