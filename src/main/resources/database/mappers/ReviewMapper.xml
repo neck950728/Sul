@@ -54,7 +54,7 @@
 			SELECT REVIEW_SEQ.NEXTVAL FROM DUAL
 		</selectKey>
 		INSERT INTO REVIEW
-		VALUES(#{reviewNum}, #{id}, #{productNum}, #{reviewContents},#{reviewStar}, SYSDATE, #{productName})
+		VALUES(#{reviewNum}, #{id}, #{productNum}, #{productName}, #{reviewContents},#{reviewStar}, SYSDATE)
 	</insert>
 
 	<delete id="setReviewDelete" parameterType="ReviewDTO">
